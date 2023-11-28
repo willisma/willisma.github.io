@@ -12,13 +12,13 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a senior student in Honors Mathematics and Computer Science at NYU Courant, where I'm fortunate to be advised by [Saining Xie](https://www.sainingxie.com/) and work with [Mark Goldstein](https://marikgoldstein.github.io/), [Michael Albergo](http://malbergo.me/), [Nick Boffi](https://nmboffi.github.io/), and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/).
 
-I'm broadly interested in Computer Vision with a particular focus on measure transport and generative modeling. 
+I'm broadly interested in Computer Vision with a particular focus on measure transport in generative models and representation learning. 
 
 Here is my [CV](assets/pdf/Tech_Resume.pdf).
 
