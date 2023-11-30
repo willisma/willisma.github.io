@@ -20,7 +20,7 @@ I'm a senior student in Honors Mathematics and Computer Science at NYU Courant, 
 
 I'm broadly interested in Computer Vision with a particular focus on measure transport in generative models and representation learning. 
 
-Here is my [CV](assets/pdf/Tech_Resume.pdf).
+Here is my [CV](assets/pdf/CV.pdf).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
