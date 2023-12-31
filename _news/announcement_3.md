@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Give a presentation on Diffusion and Flow models at Courant summer undergraduate research seminar! Here is the [slides](assets/pdf/Generalized_Flow_Transformer_Presentation.pdf)
+Give a presentation on Diffusion and Flow models at Courant Summer Undergraduate Research Seminar! Here is the [slide](assets/pdf/SURE_pre.pdf)
