@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submit our paper *SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers* to CVPR 2024! :sparkles:
+Published our paper *SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers*! :sparkles: Check it out here [![SiT preprint](http://img.shields.io/badge/paper-arxiv.2302.00482-B31B1B.svg)](https://github.com/willisma/SiT/)
