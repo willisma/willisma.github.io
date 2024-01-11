@@ -18,7 +18,15 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a senior student in Honors Mathematics and Computer Science at NYU Courant, where I'm fortunate to be advised by [Saining Xie](https://www.sainingxie.com/) and work with [Mark Goldstein](https://marikgoldstein.github.io/), [Michael Albergo](http://malbergo.me/), [Nick Boffi](https://nmboffi.github.io/), and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/).
 
-I'm broadly interested in Computer Vision with a particular focus on measure transport in generative models and representation learning. 
+I'm broadly interested in Computer Vision, with a particular focus on measure transport in generative modeling. Here are some directions that I'm recently exploring:
+
+**Cross-domain Generation:** solve measure transport between arbitrary densities to extend the scope of vision generative models beyond noise-to-image and to other modalities (speech-to-image, text-to-speech, etc.). 
+
+**Resolving Real-world Problem with Limited Data:** understand and leverage the knowledge learned by pre-trained vision generative models to approach various vision tasks in few- or zero-shot manners. 
+
+**Long Form Video Generation:** enhance the fidelity and consistency of video generation models, and further extend the spatiotemporal scale beyond the *seconds* scope. 
+
+Besides academics, I enjoy my leisure time in outdoor activities: basketball, hiking, and snowboarding (very new to this!), and I love using my camera to record moments of life. I'm also on my way to collecting playbooks of all Broadway shows (got six now!), and my favorate so far is *Come from Away*. 
 
 Here is my [CV](assets/pdf/CV.pdf).
 
