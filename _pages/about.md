@@ -26,7 +26,7 @@ I'm broadly interested in Computer Vision, with a particular focus on measure tr
 
 **Long Form Video Generation:** enhance the fidelity and consistency of video generation models, and further extend the spatiotemporal scale beyond the *seconds* scope. 
 
-Besides academics, I enjoy my leisure time in outdoor activities: basketball, hiking, and snowboarding (very new to this!), and I love using my camera to record moments of life. I'm also on my way to collecting playbooks of all Broadway shows (got six now!), and my favorate so far is *Come from Away*. 
+Besides academics, I enjoy my leisure time in outdoor activities: basketball, hiking, and snowboarding (very new to this!), and I love using my camera to record moments of life. I'm also on my way to collecting playbooks of all Broadway shows (got six now!), and my favorite so far is *Come from Away*. 
 
 Here is my [CV](assets/pdf/CV.pdf).
 
