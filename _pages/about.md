@@ -6,7 +6,7 @@ subtitle: nm3607 [at] nyu [dot] edu
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
