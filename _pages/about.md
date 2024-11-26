@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an incoming PhD student at NYU Courant advised by [Saining Xie](https://www.sainingxie.com/) and a Student Researcher at Google. 
+I'm a first-year PhD student at NYU Courant advised by [Saining Xie](https://www.sainingxie.com/) and a Student Researcher at Google. 
 
 I'm broadly interested in Computer Vision, with a particular focus on measure transport in generative modeling. I'm currently working on video generation, especially on improving the latent representation and achieving long form consistency.
 
