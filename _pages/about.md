@@ -22,7 +22,7 @@ I'm broadly interested in Computer Vision, with a particular focus on measure tr
 
 Besides academics, I enjoy outdoor activities: basketball, hiking, and snowboarding (very new to this!), and I like photography. I'm also on my way to collecting playbooks of all Broadway shows and stcikers from all National Parks.
 
-Here is my [CV](assets/pdf/CV.pdf).
+Here is my [CV](assets/pdf/Resume.pdf).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
